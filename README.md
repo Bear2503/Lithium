@@ -3,7 +3,7 @@
 <h2 align="center">Lithium</h2>
 <p align="center">
    <a href="https://discord.me/passive"><img src="https://img.shields.io/badge/Invite-PassiveModding-7289DA.svg?longCache=true&style=flat-square&logo=discord"/></a>
-   <a href="https://discordapp.com/oauth2/authorize?client_id=445176711030767616&scope=bot&permissions=2146958591"><img src="https://img.shields.io/badge/Invite-Lithium-7289DA.svg?longCache=true&style=flat-square&logo=discord"/></a>
+   <a href="https://discordapp.com/oauth2/authorize?client_id=500791922466750479&scope=bot&permissions=2146958591"><img src="https://img.shields.io/badge/Invite-Lithium-7289DA.svg?longCache=true&style=flat-square&logo=discord"/></a>
    <br/>
    <a href="https://www.buymeacoffee.com/Passive" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 </p>
